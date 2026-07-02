@@ -38,7 +38,7 @@
   ],
   "dependencies": {
     "@raycast/api": "latest",
-    "@raycast/utils": "^1.4.3",
+    "@raycast/utils": "^1.19.1",
     "@slack/web-api": "^6.7.2",
     "slackify-markdown": "^4.3.1"
   },
