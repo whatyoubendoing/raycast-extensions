@@ -18,7 +18,7 @@
     "@raycast/api": "^1.33.0",
     "download": "^8.0.0",
     "sha256-file": "^1.0.0",
-    "tar": "^6.1.11"
+    "tar": "^7.5.19"
   },
   "devDependencies": {
     "@types/download": "^8.0.1",
