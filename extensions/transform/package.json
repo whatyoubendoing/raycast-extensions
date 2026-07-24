@@ -213,7 +213,7 @@
     "json-to-go": "github:Idered/json-to-go",
     "json-to-jsdoc": "github:Idered/json-to-jsdoc",
     "json-wasm": "github:Idered/json-wasm",
-    "markdown-it": "13.0.1",
+    "markdown-it": "14.3.0",
     "node-html-markdown": "1.2.0",
     "postcss": "^8.4.16",
     "postcss-js": "^4.0.0",
