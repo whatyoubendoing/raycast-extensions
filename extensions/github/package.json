@@ -150,9 +150,9 @@
   },
   "devDependencies": {
     "@graphql-codegen/cli": "2.12.1",
-    "@graphql-codegen/typescript": "2.7.3",
-    "@graphql-codegen/typescript-graphql-request": "^4.5.5",
-    "@graphql-codegen/typescript-operations": "2.5.3",
+    "@graphql-codegen/typescript": "6.1.0",
+    "@graphql-codegen/typescript-graphql-request": "^7.1.0",
+    "@graphql-codegen/typescript-operations": "6.1.2",
     "@types/lodash": "^4.14.184",
     "@types/node": "^18.7.18",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
