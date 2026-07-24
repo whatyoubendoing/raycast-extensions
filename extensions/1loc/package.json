@@ -32,7 +32,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.31.0",
-    "axios": "0.25.0",
+    "axios": "0.33.0",
     "change-case": "4.1.2",
     "gray-matter": "4.0.3",
     "raycast-toolkit": "^1.0.3"
