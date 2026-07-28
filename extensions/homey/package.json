@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.39.1",
-    "express": "^4.18.1",
+    "express": "^4.22.2",
     "homey-api": "^1.7.5"
   },
   "devDependencies": {
