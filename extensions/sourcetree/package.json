@@ -40,7 +40,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.38.2",
-    "@raycast/utils": "^1.0.6",
+    "@raycast/utils": "^1.19.1",
     "bplist-parser": "^0.3.2"
   },
   "keywords": [
