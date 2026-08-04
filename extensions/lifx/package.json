@@ -69,7 +69,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.38.3",
-    "@raycast/utils": "^1.1.0",
+    "@raycast/utils": "^1.19.1",
     "axios": "^0.27.2",
     "hex-to-hsl": "^1.0.2",
     "hsl-to-hex": "^1.0.0",
