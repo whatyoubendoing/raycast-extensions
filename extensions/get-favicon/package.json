@@ -53,7 +53,7 @@
     "@raycast/utils": "^1.4.11",
     "image-downloader": "^4.3.0",
     "tempfile": "^4.0.0",
-    "nanoid": "^4.0.0",
+    "nanoid": "^5.1.16",
     "is-url": "^1.2.4"
   },
   "devDependencies": {
