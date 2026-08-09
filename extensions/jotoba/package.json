@@ -202,7 +202,7 @@
   "dependencies": {
     "@raycast/api": "^1.45.1",
     "@types/react": "^18.0.26",
-    "nanoid": "^4.0.0",
+    "nanoid": "^5.1.16",
     "node-fetch": "^3.2.10",
     "react": "^18.2.0",
     "react-reconciler": "^0.29.0"
