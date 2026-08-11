@@ -51,7 +51,7 @@
     "@raycast/api": "^1.29.1",
     "dayjs": "^1.10.7",
     "fuse.js": "^6.5.3",
-    "nanoid": "^3.2.0",
+    "nanoid": "^3.3.17",
     "node-fetch": "^3.0.0",
     "node-localstorage": "^2.2.1",
     "swr": "^1.1.2-beta.0",
