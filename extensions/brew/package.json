@@ -65,7 +65,7 @@
     "node-fetch": "^2.6.7",
     "run-applescript": "^6.0.0",
     "stream-chain": "^2.2.5",
-    "stream-json": "^1.7.4"
+    "stream-json": "^3.5.0"
   },
   "devDependencies": {
     "@types/node": "^16.11.26",
