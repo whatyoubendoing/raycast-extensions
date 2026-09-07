@@ -1439,7 +1439,7 @@
     "@raycast/utils": "^1.4.11",
     "asciichart": "^1.5.25",
     "bfx-api-node-models": "^1.6.3",
-    "bitfinex-api-node": "^5.0.4",
+    "bitfinex-api-node": "^9.1.0",
     "display-notification": "^3.0.0"
   },
   "devDependencies": {
