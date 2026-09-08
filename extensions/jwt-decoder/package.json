@@ -28,7 +28,7 @@
   "dependencies": {
     "@raycast/api": "^1.32.1",
     "@types/react-dom": "^17.0.14",
-    "csv-parse": "^5.0.4",
+    "csv-parse": "^7.0.2",
     "jose": "^4.6.0",
     "node-fetch": "^3.2.3",
     "raycast-hooks": "^1.0.3",
