@@ -22,7 +22,7 @@
   "dependencies": {
     "@raycast/api": "1.38.2",
     "is-svg": "4.3.2",
-    "svgo": "2.8.0"
+    "svgo": "2.8.4"
   },
   "devDependencies": {
     "@types/svgo": "2.6.3",
